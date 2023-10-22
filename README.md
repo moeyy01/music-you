@@ -12,6 +12,8 @@
 基于 React + [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) + electron, 提供网易云音乐的播放功能。
 [桌面客户端下载](https://github.com/GuMengYu/music-you/releases)
 
+旧版 2.0 由vue3构建 见 [v2-stable](https://github.com/GuMengYu/music-you/tree/v2-stable)
+
 ![GitHub stars](https://img.shields.io/github/stars/gumengyu/music-you?color=fa6470)
 ![GitHub issues](https://img.shields.io/github/issues/gumengyu/music-you?color=d8b22d)
 ![GitHub license](https://img.shields.io/github/license/gumengyu/music-you?)
