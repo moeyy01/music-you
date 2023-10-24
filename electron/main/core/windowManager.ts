@@ -34,7 +34,7 @@ const defaultBrowserOptions: BrowserWindowConstructorOptions = {
   transparent: true,
   backgroundColor: 'rgba(0,0,0,0)',
   roundedCorners: true,
-  hasShadow: false,
+  // hasShadow: false,
 }
 export default class WindowManager extends EventEmitter {
   windows: Record<Pages, BrowserWindow> | Record<string, never>
