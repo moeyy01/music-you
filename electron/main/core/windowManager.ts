@@ -15,8 +15,8 @@ import store from './util/store'
 export const WindowDefaultSize = {
   height: 740,
   width: 1099,
-  minWidth: 393,
-  minHeight: 600,
+  minWidth: 144,
+  minHeight: 144,
 }
 
 const defaultBrowserOptions: BrowserWindowConstructorOptions = {
